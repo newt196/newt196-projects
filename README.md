@@ -39,6 +39,10 @@ Secure and unsecure chat setup between two computers on my netwrok
 -Authentication was based on an TCP connection
 -verified in wireshark, unsecure communication could be viewed in wireshard | secure communciation was left encrpyted and encrypted with CeaserCipher(for beginners, looking to upgrade the encyption if ever where to be hosted over the internet)
 
+Possible ARP defense and attakcs 
+
+Man in the middle attacks where possible. 
+
 
 
 
